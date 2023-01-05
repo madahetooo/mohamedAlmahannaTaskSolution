@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">taskSolution</string>
+    <string name="item_name">Item Name</string>
+    <string name="distance">distance</string>
+    <string name="_3_min">3 min</string>
+    <string name="_750_m">750 m</string>
+    <string name="oxiHealth">اوكسي هيلث</string>
+    <string name="_340_r_s">340 R.S</string>
+    <string name="book">Book</string>
+    <string name="negotiate">Negotiate</string>
+    <string name="locations">الوادي , الرياض , المملكة العربية السعودية</string>
+    <string name="rate">4.2</string>
+    <string name="image_content">Image Content</string>
+    <string name="todo">TODO</string>
+</resources>
